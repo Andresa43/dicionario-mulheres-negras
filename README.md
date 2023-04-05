@@ -42,4 +42,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ Programaria :wave: [Acesse a comunidade!](https://www.programaria.org/https://discord.gg/HttdQNWA)
+<p align="center"> Feito com ♥ Programaria :wave: [Acesse a comunidade!](https://www.programaria.org/https://discord.gg/HttdQNWA)</p>
