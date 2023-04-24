@@ -66,5 +66,3 @@ function carregaDicionario() {
 }
 
 carregaDicionario()
-
-// '<a href="' + biografias[bio].link + '">' + '<img src="' + biografias[bio].imagem + '"/>' + '</a>'
